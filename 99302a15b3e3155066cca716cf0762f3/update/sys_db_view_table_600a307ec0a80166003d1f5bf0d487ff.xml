@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>300</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2009-05-20 22:00:29</sys_created_on>
+        <sys_id>600a307ec0a80166003d1f5bf0d487ff</sys_id>
+        <sys_name>sc_task</sys_name>
+        <sys_package display_value="Database Views for Service Management" source="com.snc.service.db_views">433e59fb1305101008013ff18144b066</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="RequestMgmtApp">99302a15b3e3155066cca716cf0762f3</sys_scope>
+        <sys_update_name>sys_db_view_table_600a307ec0a80166003d1f5bf0d487ff</sys_update_name>
+        <table>sc_task</table>
+        <variable_prefix>sct</variable_prefix>
+        <view display_value="sc_task_metric">600a2603c0a801660027b8e18b077d20</view>
+        <where_clause>mi_id = sct_sys_id</where_clause>
+    </sys_db_view_table>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="RequestMgmtApp">99302a15b3e3155066cca716cf0762f3</claim_owner_scope>
+        <claim_timestamp>184d575be2b0000002</claim_timestamp>
+        <metadata_update_name>sys_db_view_table_600a307ec0a80166003d1f5bf0d487ff</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>RequestMgmtApp</previous_claim_name>
+        <previous_claim_scope>99302a15b3e3155066cca716cf0762f3</previous_claim_scope>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2022-12-03 00:49:34</sys_created_on>
+        <sys_id>9585aad9b3e3155066cca716cf076265</sys_id>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="RequestMgmtApp">99302a15b3e3155066cca716cf0762f3</claim_owner_scope>
+        <claim_timestamp>184d575be2b0000001</claim_timestamp>
+        <metadata_update_name>sys_db_view_table_600a307ec0a80166003d1f5bf0d487ff</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.service.db_views</previous_claim_name>
+        <previous_claim_scope>com.snc.service.db_views</previous_claim_scope>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2022-12-03 00:49:34</sys_created_on>
+        <sys_id>5985aad9b3e3155066cca716cf076265</sys_id>
+    </sys_claim>
+</record_update>

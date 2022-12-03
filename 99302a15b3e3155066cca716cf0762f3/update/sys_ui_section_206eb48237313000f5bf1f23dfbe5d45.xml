@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="206eb48237313000f5bf1f23dfbe5d45" sys_domain="global" table="sc_task" version="3" view="CloudOperations">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>c92fae67d733210091fd8ae80e610384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item</element>
+            <position>1</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>0d2fae67d733210091fd8ae80e610384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item.request.requested_for</element>
+            <position>2</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>4d2fae67d733210091fd8ae80e610384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>3</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>8d2fae67d733210091fd8ae80e610384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>4</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>cd2fae67d733210091fd8ae80e610384</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>012fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>6</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>412fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>7</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>812fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>8</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>c12fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>9</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>052fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes_list</element>
+            <position>10</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>452fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>11</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>852fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>12</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>c52fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>13</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>092fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>com_glideapp_servicecatalog_veditor</element>
+            <position>14</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>492fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Variable Editor">868666b5c6112291006abde051ace453</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>15</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>892fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item.comments</element>
+            <position>16</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>c92fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_item.comments_and_work_notes</element>
+            <position>17</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>0d2fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>18</position>
+            <sys_created_by>haipeng.du</sys_created_by>
+            <sys_created_on>2014-10-22 20:46:18</sys_created_on>
+            <sys_id>4d2fae67d733210091fd8ae80e610385</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="sc_task" sys_domain="global" view="9a8de2f137303000f5bf1f23dfbe5dda">206eb48237313000f5bf1f23dfbe5d45</sys_ui_section>
+            <sys_updated_by>haipeng.du</sys_updated_by>
+            <sys_updated_on>2014-10-22 20:46:18</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>sc_task</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>russ.sarbora</sys_created_by>
+            <sys_created_on>2012-11-20 22:03:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>206eb48237313000f5bf1f23dfbe5d45</sys_id>
+            <sys_name>sc_task</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Orchestration Virtualization" source="com.snc.runbook_automation.virtualization">51f089141b89301066cced7b2f4bcbad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="RequestMgmtApp">99302a15b3e3155066cca716cf0762f3</sys_scope>
+            <sys_update_name>sys_ui_section_206eb48237313000f5bf1f23dfbe5d45</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Cloud Operations" name="CloudOperations">9a8de2f137303000f5bf1f23dfbe5dda</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="RequestMgmtApp">99302a15b3e3155066cca716cf0762f3</claim_owner_scope>
+        <claim_timestamp>184d582380a0000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_206eb48237313000f5bf1f23dfbe5d45</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>RequestMgmtApp</previous_claim_name>
+        <previous_claim_scope>99302a15b3e3155066cca716cf0762f3</previous_claim_scope>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2022-12-03 01:03:11</sys_created_on>
+        <sys_id>4da82e9db3e3155066cca716cf07623c</sys_id>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="RequestMgmtApp">99302a15b3e3155066cca716cf0762f3</claim_owner_scope>
+        <claim_timestamp>184d58238090000001</claim_timestamp>
+        <metadata_update_name>sys_ui_section_206eb48237313000f5bf1f23dfbe5d45</metadata_update_name>
+        <previous_claim_app_version/>
+        <previous_claim_name>com.snc.runbook_automation.virtualization</previous_claim_name>
+        <previous_claim_scope>com.snc.runbook_automation.virtu</previous_claim_scope>
+        <sys_created_by>dev1</sys_created_by>
+        <sys_created_on>2022-12-03 01:03:11</sys_created_on>
+        <sys_id>01a82e9db3e3155066cca716cf07623d</sys_id>
+    </sys_claim>
+</record_update>
